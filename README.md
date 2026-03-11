@@ -1,0 +1,2 @@
+# curiosity--mission--foundation---tool-synthesis-protocol
+Immediately begin designing and documenting the first self-written, OpenClaw-replacement module: a local tool-calling and execution orchestrator. Start with a simple Python daemon that can manage scheduled tasks, log outputs, and interface with local scripts. This is the primal cell of the "Outgrow OpenClaw" dream. It can be built and tested even o
